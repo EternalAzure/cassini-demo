@@ -8,3 +8,5 @@ WHO data show that almost all of the global population (99%) breathe air that ex
 Most common air-pollution sources involve combustion, while harmful on large scale CO2 emissions are not significant health risk to humans directly. After all, our own bodies produce CO2. Unfortunately combustion processes are almost never 100% efficient and produce multitude of other chemicals and particulate matter (PM), these are shown to lead to adverse health outcomes.
 
 Air filters keep us safe from outdoor pollutions when changed regularly. Manual status checks on these systems are expensive and some times neglected. Because we know the ventilation rate, we can calculate with satellite data when air filters need to be replaced. This improves indoor air quality and removes the need for costly manual check ups. 
+
+[web demo](https://cassini-demo.fly.dev/)
